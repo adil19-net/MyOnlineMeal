@@ -97,7 +97,7 @@
     background-color: brown ;
     color:white;
     margin: 10px 10px;
-    font-size: 3.5rem;
+    font-size: 1.2rem;
     border-radius: 10px;
     cursor:pointer;
 }
@@ -175,16 +175,7 @@
    font-family: 'Bree Serif', serif;
 
 }
-.btn{
-    padding: 6px 20px;
-    border: 2px solid white;
-    background-color: brown;
-    color: white;
-    margin: 17px;
-    font-size: 1.5rem;
-    border-radius: 10px;
-    cursor:pointer;
-}
+
 
 
 footer{
@@ -196,13 +187,9 @@ footer{
 #contact-box form{
     width:80%;
 }
-/* Footer */
 
-/* Utility classes */
-.h-primary{
-    font-size:26px;
-}
-.btn{
-    font-size: 13px;
-    padding: 4px 8px;
+.center-align{
+    display:flex;
+    align-items: center;
+    justify-content: center;
 }
